@@ -20,3 +20,7 @@ sendBtn.addEventListener('click', (event) => {
     }
 })
 
+
+
+let x;
+console.log(x)
